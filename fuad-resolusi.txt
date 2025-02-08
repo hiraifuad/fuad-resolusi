@@ -2,3 +2,4 @@ WPU Resolusi
 - Konsisten belajar coding 
 - Belajar Javascript FrontEnd
 - Javascript BackEnd
+- Cita-cita saya menjadi Fullstack Developer
